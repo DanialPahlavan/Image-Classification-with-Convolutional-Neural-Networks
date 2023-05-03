@@ -8,6 +8,7 @@ The dataset used in this project is the Cats and Dogs dataset, which contains 25
 To run this project, you will need to have Python 3 and scikit-learn library installed. You can install scikit-learn using pip:
 ```
 pip install scikit-learn
+pip install tensorflow keras
 ```
 
 # Usage
