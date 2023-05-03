@@ -1,5 +1,5 @@
-# Predicting House Prices with Linear Regression
-This project uses Python and scikit-learn library to predict house prices based on several features such as the number of bedrooms, bathrooms, and square footage.
+# Image Classification with Convolutional Neural Networks
+This project uses Python and Keras library to train a convolutional neural network (CNN) to classify images of cats and dogs.
 
 # Dataset
 The dataset used in this project is the Cats and Dogs dataset, which contains 25,000 labeled images of cats and dogs. The dataset is available for download from Microsoft Research website.
